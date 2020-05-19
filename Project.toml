@@ -1,4 +1,7 @@
-name = "Tsne"
+name = "TSne"
+uuid = "c9c28012-be66-4c1c-89f4-66a907667484"
+# authors = ["Li Alex Zhang <fff008@gmail.com>"]
+# version = "0.1.0"
 
 [deps]
 Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
